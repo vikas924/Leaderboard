@@ -73,7 +73,7 @@
 
 ## 🚀 Live Demo <a name="live-demo"></a>
 
-- [Live Demo Link]( https://vikas924.github.io/To-do-list/dist/)
+- [Live Demo Link]( https://vikas924.github.io/Leaderboard/dist)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -188,6 +188,6 @@ I would like to thank Microverse for this exercise.
 
 ## 📝 License <a name="license"></a>
 
-This project is [MIT](https://github.com/vikas924/To-do-list/blob/7d642e17a5b454f0e9d89b2fc60a6d7b07fe89cc/license) licensed.
+This project is [MIT](https://github.com/vikas924/Leaderboard/blob/1f56509c2defa0acabffb7c26cdafbae5595ec57/LICENSE) licensed.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
