@@ -25,6 +25,11 @@
   min-height: 70vh;
   justify-content: center;
   width: 100%;
+  padding-bottom: 3rem;
+}
+
+.background {
+  background-color: rgb(141, 141, 141);
 }
 
 .firstdiv {
@@ -50,6 +55,12 @@
 
 .scores {
   border: 0.1rem solid black;
+}
+
+.list {
+  display: flex;
+  gap: 0.2rem;
+  padding: 0.3rem;
 }
 
 .seconddiv {
