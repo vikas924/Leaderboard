@@ -30,9 +30,9 @@
 - [❓ FAQ (OPTIONAL)](#faq)
 - [📝 License](#license)
 
-# 📖 [leaderboard setup] <a name="about-project"></a>
+# 📖 [leaderboard hit api] <a name="about-project"></a>
 
-**[leaderboard setup]** In this project i setup webpack linters and add html for leaderboard with basic styling.
+**[leaderboard hit api]** In this project i added add function and display data from api.
 
 ## 🛠 Built With <a name="built-with"></a>
 
