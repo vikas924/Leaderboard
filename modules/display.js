@@ -6,6 +6,7 @@ const display = () => {
   const scores = document.querySelector('.scores');
   getData(`https://us-central1-js-capstone-backend.cloudfunctions.net/api/games/${gameid}/scores`).then((json) => {
     const data = json.result;
+    data.sort((a, b) => b.score - a.score);
     let items = '';
     data.forEach((element) => {
       items += `<li class="list"><p class="para1">${element.user}:</p><p class="para1">${element.score}</p></li>`;
