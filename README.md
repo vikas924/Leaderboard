@@ -30,9 +30,9 @@
 - [❓ FAQ (OPTIONAL)](#faq)
 - [📝 License](#license)
 
-# 📖 [leaderboard hit api] <a name="about-project"></a>
+# 📖 [leaderboard final touches] <a name="about-project"></a>
 
-**[leaderboard hit api]** In this project i added add function and display data from api.
+**[leaderboard final touches]** In this project i added add function,display data from api and added styling .
 
 ## 🛠 Built With <a name="built-with"></a>
 
